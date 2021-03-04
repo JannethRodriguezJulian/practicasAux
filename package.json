@@ -1,0 +1,22 @@
+{
+  "name": "prac1",
+  "version": "1.0.0",
+  "description": "prac 1 aux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannethRodriguezJulian/practicasAux.git"
+  },
+  "author": "Janneth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JannethRodriguezJulian/practicasAux/issues"
+  },
+  "homepage": "https://github.com/JannethRodriguezJulian/practicasAux#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
